@@ -3,13 +3,13 @@ Java's libraries/systems that establish connections to the network; an experimen
 
 <hr>
 Most of the content is in this directory. <br>
-<a href="https://github.com/p0unter/java_networking/tree/main/src/main/java/net">-> Go to Source Directory</a>
+<a href="https://github.com/p0unter/java_networking/tree/main/src">-> Go to Source Directory</a>
 <hr>
 
 ## Content
 
 <ul>
   <li>
-    <a href="https://github.com/p0unter/java_networking/tree/main/src">Simple client&server connections</a>
+    <a href="https://github.com/p0unter/java_networking/tree/main/src/net/chatapp">Simple client&server connections</a>
   </li>
 </ul>
