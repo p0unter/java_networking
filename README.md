@@ -10,6 +10,6 @@ Most of the content is in this directory. <br>
 
 <ul>
   <li>
-    <a href="https://github.com/p0unter/java_networking/tree/main/src/main/java/net/sockets/simplefield">Simple client&server connections</a>
+    <a href="https://github.com/p0unter/java_networking/tree/main/src">Simple client&server connections</a>
   </li>
 </ul>
