@@ -1,4 +1,4 @@
-package net.sockets.simplefield;
+package net.chatapp;
 
 import java.io.BufferedInputStream;
 import java.io.DataInputStream;
